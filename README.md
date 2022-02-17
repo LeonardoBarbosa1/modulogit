@@ -42,3 +42,6 @@ comando que adiciona o repositório remoto em seu repositório local: git remote
 
 comando para enviar os conteúdos locais para o remoto: git push -u origin master
 
+comando para não pedir id do token: git config --global credential.helper cache
+
+
