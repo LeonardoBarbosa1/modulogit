@@ -38,12 +38,10 @@ comando para saber o nome dos arquivos que foram modificados: sudo git diff --na
 
 comando para saber as alterações apenas de um arquivo: sudo git diff nome-do-arquivo
 
-comando que adiciona o repositório remoto em seu repositório local: git remote add origin https://github.com/nome-usoario/nome-arquivo
-
 comando para enviar os conteúdos locais para o remoto: git push -u origin master
 
 comando para não pedir id do token: git config --global credential.helper cache
 
-comando para adicionar o repositório remoto ao seu repositório local: git remote set-url origin https://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@github.com/seu-nome/nome-do-repositorio
+comando para adicionar o repositório remoto ao seu repositório local: git remote set-url origin https://seu-token@github.com/seu-nome/nome-do-repositorio
 
 
