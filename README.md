@@ -44,4 +44,6 @@ comando para enviar os conteúdos locais para o remoto: git push -u origin maste
 
 comando para não pedir id do token: git config --global credential.helper cache
 
+comando para adicionar o repositório remoto ao seu repositório local: git remote set-url origin https://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@github.com/LeonardoBarbosa1/evento-programacao-do-zero
+
 
