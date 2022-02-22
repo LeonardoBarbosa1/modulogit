@@ -44,4 +44,6 @@ comando para não pedir id do token: git config --global credential.helper cache
 
 comando para adicionar o repositório remoto ao seu repositório local: git remote set-url origin https://seu-token@github.com/seu-nome/nome-do-repositorio
 
+caso seu arquivo esteja protegido e você não esteja conseguindo salvar as alterações use esse comando: sudo chmod -R 777 /nome/da/pasta
+
 
